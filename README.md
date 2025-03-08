@@ -4,10 +4,10 @@ I'm a passionate web developer who loves creating simple and efficient web proje
 
 ## 📌 About Me  
 👤 **Name:** Mhd Ridwan Adly Nasution  
-📧 **Email:** example@email.com  
+📧 **Email:** ridwanadly8@gmail.com  
 🔗 **GitHub:** [github.com/ridwan](https://github.com/ridwan)  
 🔗 **LinkedIn:** [linkedin.com/in/ridwan](https://linkedin.com/in/ridwan)  
-📱 **Instagram:** [@ridwan](https://instagram.com/ridwan)  
+📱 **Instagram:** https://www.instagram.com/ridwaanst_
 
 ## 📝 Project Overview  
 This project is a simple web template containing a basic HTML structure, which can be used as a starting point for various web development projects.  
